@@ -1,5 +1,7 @@
 # amazon principles
 
+<pre>
+
 https://www.amazon.jobs/principles
 
 Date: Jan 15 2018
@@ -87,4 +89,4 @@ Deliver Results :
 	Despite setbacks, they rise to the occasion and never settle.
 
 -----------
-
+</pre>
