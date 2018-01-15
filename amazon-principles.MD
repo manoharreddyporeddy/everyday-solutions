@@ -4,14 +4,14 @@ https://www.amazon.jobs/principles
 
 Date: Jan 15 2018
 
-==========
+-----------
 Leadership Principles :
 	Our Leadership Principles aren’t just a pretty inspirational wall hanging.
 	These Principles work hard, just like we do.
 	Amazonians use them, every day, whether they’re discussing ideas for new projects,
 		deciding on the best solution for a customer’s problem, or interviewing candidates.
 		It’s just one of the things that makes Amazon peculiar.
-==========
+-----------
 
 Customer Obsession :
 	Leaders start with the customer and work backwards.
@@ -83,5 +83,5 @@ Have Backbone; Disagree and Commit :
 Deliver Results :
 	Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion.
 	Despite setbacks, they rise to the occasion and never settle.
-==========
+-----------
 
