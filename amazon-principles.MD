@@ -1,10 +1,10 @@
 # amazon principles
 
-<pre>
-
-https://www.amazon.jobs/principles
+Source: https://www.amazon.jobs/principles
 
 Date: Jan 15 2018
+
+<pre>
 
 -----------
 
