@@ -1,4 +1,9 @@
 
+repo
+ user name
+ email 
+ set and get
+
 
 # set name & email to a GIT repository
 
