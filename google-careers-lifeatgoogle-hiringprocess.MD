@@ -1,11 +1,10 @@
 
 
-<pre>
-
 ---------
 
 https://www.google.com/intl/en_us/about/careers/lifeatgoogle/hiringprocess/
 
+<pre>
 Core of how we hire/ Noogler
 	Things move quickly at Internet speed at Google.
 	good for Google, for the long term.
@@ -112,11 +111,14 @@ How we decide
 			Google is proud to be
 				an equal opportunity workplace and (((((((the aim is that important jobs should go to those "most qualified" – persons most likely to perform ably in a given task – and not go to persons for arbitrary or irrelevant reasons, such as circumstances of birth, upbringing, having well-connected relatives or friends,[3] religion, sex,[4] ethnicity,[4] race, caste,[5] or involuntary personal attributes such as disability, age, gender identity, or sexual orientation.))))))
 				is an affirmative action employer. (((((((affirmative action has sought to achieve goals such as bridging inequalities in employment and pay, increasing access to education, promoting diversity, and redressing apparent past wrongs, harms, or hindrances.)))))))
+</pre>
 
 ---------
 
-Hangout on Air: Google sales resume & interview prep
 https://www.google.com/intl/en_us/about/careers/lifeatgoogle/google-sales-resume-interview-prep.html
+
+<pre>
+Hangout on Air: Google sales resume & interview prep
 
 Authenticity. Creativity. Metrics. Watch this Hangout on Air to learn what our Sales Staffing team looks for in Sales candidates, how to write your resume and the best ways to prepare for your interview.
 
@@ -129,14 +131,15 @@ Authenticity. Creativity. Metrics. Watch this Hangout on Air to learn what our S
 	+1
 	thanks for hanging out
 
+</pre>
 
 ---------
 
-Hangout on Air: Candidate coaching session - Tech interviewing
 https://www.google.com/intl/en_us/about/careers/lifeatgoogle/hangout-on-air-tech-interviewing.html
 
----------
+<pre>
 
+Hangout on Air: Candidate coaching session - Tech interviewing
 
 code
 	+ basic ds/algorithms
@@ -324,15 +327,19 @@ sound design
 		make note
 		also write code
 	clean like-production grade code
+</pre>
 
 -----------
 
 https://www.google.com/intl/en_us/about/careers/lifeatgoogle/googles-recruiter-on-how-to-build-a-superstar-team.html
+https://www.entrepreneur.com/article/217877
+
+<pre>
+
 Google's Recruiter on How to Build a Superstar Team
 
 Todd Carlisle, staffing director for our business teams, knows to look for people who can think quick on their feet. He talks about the best ways to build a fantastic team through finding candidates with the "startup" mentality - raw intellect, learning agility, diversity, leadership and innovation.
 
-https://www.entrepreneur.com/article/217877
 Carlisle looks for
 	raw intellect,
 	learning agility,
@@ -355,7 +362,7 @@ Carlisle also asks candidates to talk of a time they really screwed up--and that
 	how can I give you more of that?"
 
 "People's needs--money, promotions, cool projects--will change," he says, "but if you give them what they want, your staff won't." (((((((quit?)))))))
+</pre>
 
 -----------
 
-</pre>
