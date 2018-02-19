@@ -394,6 +394,13 @@ Carlisle also asks candidates to talk of a time they really screwed up--and that
 14:00			SQL commands/syntax,					Consistency	The consistency property ensures that any transaction will bring the database from one valid state to another. Any data written to the database must be valid according to all defined rules, including constraints, cascades, triggers, and any combination thereof. 
 14:30			complex query design, etc.					Isolation	The isolation property ensures that the concurrent execution of transactions results in a system state that would be obtained if transactions were executed sequentially, i.e., one after the other. Providing isolation is the main goal of concurrency control
 								durability	The durability property ensures that once a transaction has been committed, it will remain so, even in the event of power loss, crashes, or errors. In a relational database, for instance, once a group of SQL statements execute, the results need to be stored permanently (even if the database crashes immediately thereafter). To defend against power loss, transactions (or their effects) must be recorded in a non-volatile memory.
+	Linux/Unix:								
+15:00		Must be comfortable working in a Linux environment (as a user, not an admin) and					CAP theorem	 distributed data store is a computer network where information is stored on more than one node, often in a replicated fashion	
+			will be expected to have a good working knowledge of					Replication	data replication if the same data is stored on multiple storage devices
+15:30				user-level Linux commands,					Replication in computing involves sharing information so as to ensure consistency between redundant resources, such as software or hardware components, to improve reliability, fault-tolerance, or accessibility.
+16:00				shell scripting,				Availability	Every request receives a (non-error) response – without guarantee that it contains the most recent write
+16:30				regular expressions, etc.				Consistency	Every read receives the most recent write or an error
+								Partition tolerance	The system continues to operate despite an arbitrary number of messages being dropped (or delayed) by the network between nodes
 
 
 
