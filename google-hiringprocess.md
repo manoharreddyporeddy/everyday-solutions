@@ -401,6 +401,23 @@ Carlisle also asks candidates to talk of a time they really screwed up--and that
 16:00				shell scripting,				Availability	Every request receives a (non-error) response – without guarantee that it contains the most recent write
 16:30				regular expressions, etc.				Consistency	Every read receives the most recent write or an error
 								Partition tolerance	The system continues to operate despite an arbitrary number of messages being dropped (or delayed) by the network between nodes
+	Troubleshooting:								
+		Interviewers are looking for a							
+17:00			logical and						
+17:30			structured approach						
+18:00				to problem solving					
+					through				
+18:30						distributed systems,			
+19:00						network and web scenarios.			
+			Make sure you						
+19:30				understand the questions and					
+20:00				ask appropriate follow-up questions					
+					to the interviewer if you need clarification.				
+			A big part is						
+20:30				finding out what the actual problem is and					
+21:00				breaking it down into specifics.					
+									
+21:30			<<<<< Check out Life in App Engine Production for a troubleshooting example. >>>>						
 
 
 
