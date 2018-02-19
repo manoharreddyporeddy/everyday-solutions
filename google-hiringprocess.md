@@ -368,7 +368,7 @@ Carlisle also asks candidates to talk of a time they really screwed up--and that
 
 
 
-
+<pre>
 
 
 
@@ -383,6 +383,25 @@ Carlisle also asks candidates to talk of a time they really screwed up--and that
 10:00			DNS,				IPv4 Data Packet	https://commons.wikimedia.org/wiki/File:IPv4_header_(1).png	
 10:30			HTML/XML,				IP_address	https://simple.wikipedia.org/wiki/IP_address	
 11:00			AJAX, etc.				Hostname	https://en.wikipedia.org/wiki/Hostname	
+							MAC		
+		Brush up on HTTP Protocol basics:							
+11:30			Part I,				READ AGAIN	https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177	
+12:00			Part II					https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155	
+							continue from here: https://www.w3schools.com/html/html_css.asp		
+12:30	Databases/SQL/NoSQL:								
+13:00		Data modeling fundamentals,						ACID (Atomicity, Consistency, Isolation, Durability) is a set of properties of database transactions intended to guarantee validity even in the event of errors, power failures, etc.	
+13:30			database architecture/efficiency,					Atomicity	Atomicity requires that each transaction be "all or nothing": if one part of the transaction fails, then the entire transaction fails, and the database state is left unchanged. An atomic system must guarantee atomicity in each and every situation, including power failures, errors and crashes. 
+14:00			SQL commands/syntax,					Consistency	The consistency property ensures that any transaction will bring the database from one valid state to another. Any data written to the database must be valid according to all defined rules, including constraints, cascades, triggers, and any combination thereof. 
+14:30			complex query design, etc.					Isolation	The isolation property ensures that the concurrent execution of transactions results in a system state that would be obtained if transactions were executed sequentially, i.e., one after the other. Providing isolation is the main goal of concurrency control
+								durability	The durability property ensures that once a transaction has been committed, it will remain so, even in the event of power loss, crashes, or errors. In a relational database, for instance, once a group of SQL statements execute, the results need to be stored permanently (even if the database crashes immediately thereafter). To defend against power loss, transactions (or their effects) must be recorded in a non-volatile memory.
 
 
 
+
+
+
+
+
+
+
+</pre>
