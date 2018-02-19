@@ -418,6 +418,17 @@ Carlisle also asks candidates to talk of a time they really screwed up--and that
 21:00				breaking it down into specifics.					
 									
 21:30			<<<<< Check out Life in App Engine Production for a troubleshooting example. >>>>						
+									
+	Algorithms/Data Structure:								
+22:00		Dig out your CS textbook and							
+22:30			brush up on your basic algorithm theory including						
+23:00				sorting and					
+23:30				Big-O notation.					
+			Data structure topics may include						
+0:00				linked lists,					
+0:30				binary trees,					
+1:00				hash tables,					
+				etc.					
 
 
 
