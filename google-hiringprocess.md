@@ -366,3 +366,23 @@ Carlisle also asks candidates to talk of a time they really screwed up--and that
 
 -----------
 
+
+
+
+
+
+
+
+
+
+
+	Web/Internet Technologies:								
+		The communication protocols, languages/APIs, and other mechanisms that enable the internet to function.							
+9:00			HTTP,						
+9:30			Browsers,						
+10:00			DNS,				IPv4 Data Packet	https://commons.wikimedia.org/wiki/File:IPv4_header_(1).png	
+10:30			HTML/XML,				IP_address	https://simple.wikipedia.org/wiki/IP_address	
+11:00			AJAX, etc.				Hostname	https://en.wikipedia.org/wiki/Hostname	
+
+
+
