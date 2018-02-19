@@ -429,6 +429,16 @@ Carlisle also asks candidates to talk of a time they really screwed up--and that
 0:30				binary trees,					
 1:00				hash tables,					
 				etc.					
+	Programming/OO:								
+1:30		You will be asked to write some code in							
+			at least one of the interviews (in your preferred language).						
+			Syntax is not as important as						
+2:00				structured thinking,					
+2:30				but proper syntax never hurts.					
+			Object oriented						
+3:00				theory and					
+3:30				concepts					
+					may also be covered.				
 
 
 
