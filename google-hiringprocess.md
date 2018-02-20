@@ -581,14 +581,29 @@ graph db
 	Order the people by their friendRank score.
 	Get the top 10 ranked people.
 
+        https://github.com/thinkaurelius/titan/
+
+
+bandwidth (max possible) vs throughput (actual: narrowing line, splitting betn various devices, upload & downloading)
+
+
+
+rps
+https://en.wikipedia.org/wiki/Web_server#requests_per_second
+https://stackoverflow.com/questions/16952625/how-can-a-web-server-handle-multiple-users-incoming-requests-at-a-time-on-a-sin
 
 
 
 
-graph db
-https://github.com/thinkaurelius/titan/
+
+load-balancing.
 
 
+
+https://stackoverflow.com/a/38261380/984471
+https://stackoverflow.com/a/48878168/984471
+https://stackoverflow.com/a/48878548/984471
+https://stackoverflow.com/a/48878955/984471
 
 
 
