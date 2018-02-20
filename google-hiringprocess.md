@@ -663,6 +663,47 @@ https://en.wikipedia.org/wiki/Scalability
 
 
 
+https://en.wikipedia.org/wiki/Chroot									
+A chroot on Unix operating systems is an operation that changes the apparent root directory for the current running process and its children. A program that is run in such a modified environment cannot name (and therefore normally cannot access) files outside the designated directory tree. The term "chroot" may refer to the chroot(2) system call or the chroot(8) wrapper program. The modified environment is called a chroot jail.									
+									
+https://en.wikipedia.org/wiki/Operating-system-level_virtualization									
+Operating-system-level_virtualization									
+									
+	*In operating-system-level virtualization,								
+		a physical server is virtualized at the operating system level,							
+			enabling multiple isolated and secure virtualized servers to run on a single physical server.						
+		The "guest" operating system environments							
+			share the same running instance of the operating system as the host system.						
+			Thus, the same operating system kernel is also used to implement the "guest" environments,						
+				and applications running in a given "guest" environment view it as a stand-alone system.					
+			The pioneer implementation was FreeBSD jails; other examples include Docker, Solaris Containers, OpenVZ, Linux-VServer, LXC, AIX Workload Partitions, Parallels Virtuozzo Containers, and iCore Virtual Accounts.						
+									
+									
+	Operating-system-level virtualization, also known as containerization, refers to an operating system feature in which the kernel allows the existence of multiple isolated user-space instances.								
+		Such instances, called containers,[1] partitions, virtualization engines (VEs) or jails (FreeBSD jail or chroot jail), may look like real computers from the point of view of programs running in them. A computer program running on an ordinary person's computer's operating system can see all resources (connected devices, files and folders, network shares, CPU power, quantifiable hardware capabilities) of that computer.							
+		However, programs running inside a container can only see the container's contents and devices assigned to the container.							
+	On Unix-like operating systems, this feature can be seen as an advanced implementation of the standard chroot mechanism, which changes the apparent root folder for the current running process and its children. In addition to isolation mechanisms, the kernel often provides resource-management features to limit the impact of one container's activities on other containers.								
+									
+									
+	On ordinary operating systems for personal computers, a computer program can see (even though it might not be able to access) all the system's resources. They include:								
+		Hardware capabilities that can be employed, such as the CPU and the network connection							
+		Data that can be read or written, such as files, folders and network shares							
+		Connected peripherals which can be interacted, such as webcam, printer, scanner, or fax							
+									
+	*With operating-system-virtualization, or containerization,								
+		it is possible to run programs within containers,							
+			to which only parts of these resources are allocated.						
+		A program expecting to see the whole computer,							
+			once run inside a container,						
+			can only see the allocated resources and						
+			believes them to be all that is available.						
+		Several containers can be created on each operating system,							
+			to each of which a subset of the computer's resources is allocated.						
+			Each container may contain any number of computer programs.						
+			These programs may run concurrently or separately, even interact with each other.						
+									
+	Containerization has similarities to application virtualization:								
+		application virtualization, only one computer program is placed in an isolated container and the isolation applies to file system only.							
 
 
 
