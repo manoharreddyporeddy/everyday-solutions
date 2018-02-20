@@ -800,8 +800,21 @@ Node.js
 
 
 
-
-
+dns									
+	https://www.youtube.com/watch?v=2ZUxoi7YNgs								
+									
+proof by induction									
+	induction hypothesis	#NAME?							
+	Q.E.D. 	#NAME?							
+	http://comet.lehman.cuny.edu/sormani/teaching/induction.html								
+									
+	Proofs by Induction								
+	A proof by induction is just like an ordinary proof in which every step must be justified. However it employs a neat trick which allows you to prove a statement about an arbitrary number n by first proving it is true when n is 1 and then assuming it is true for n=k and showing it is true for n=k+1. The idea is that if you want to show that someone can climb to the nth floor of a fire escape, you need only show that you can climb the ladder up to the fire escape (n=1) and then show that you know how to climb the stairs from any level of the fire escape (n=k) to the next level (n=k+1).								
+	If you've done proof by induction before								
+		you may have been asked to							
+			assume the n-1 case and show the n case, or						
+			assume the n case and show the n+1 case. 						
+									
 unix commands									
 	https://www.google.co.in/search?q=unix+commands&oq=unix+commands&aqs=chrome..69i57j0l5.9894j0j7&sourceid=chrome&ie=UTF-8								
 									
@@ -811,7 +824,6 @@ unix commands
 									
 regex									
 	https://www.w3schools.com/jsref/jsref_obj_regexp.asp								
-
 
 
 
