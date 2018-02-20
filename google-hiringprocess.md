@@ -607,6 +607,20 @@ https://stackoverflow.com/a/48878955/984471
 
 
 
+asynchronous input/output.								
+	it is possible to start the communication and then perform processing that does not require that the I/O be completed. 							
+	Any task that depends on the I/O having completed still needs to wait for the I/O operation to complete, and thus is still blocked,							
+	but other processing that does not have a dependency on the I/O operation can continue.							
+								
+	Input and output (I/O) operations on a computer can be extremely slow compared to the processing of data.							
+	An I/O device can incorporate mechanical devices that must physically move, such as a hard drive seeking a track to read or write;							
+	this is often orders of magnitude slower than the switching of electric current.							
+		For example,						
+			during a disk operation that takes ten milliseconds to perform,					
+			a processor that is clocked at one gigahertz could have performed ten million instruction-processing cycles.					
+								
+Event-driven architecture								
+	Event-driven architecture (EDA), is a software architecture pattern promoting the production, detection, consumption of, and reaction to events.							
 
 
 
