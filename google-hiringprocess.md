@@ -739,6 +739,23 @@ Application virtualization, "virtualization" refers to the artifact being encaps
 
 
 
+https://en.wikipedia.org/wiki/Web_application									
+web application or web app is a client–server computer program in which									
+	the client (including the user interface and client-side logic) runs in a web browser.[1]								
+									
+	Common web applications include webmail, online retail sales, online auctions, wikis, instant messaging services and many other functions.								
+	Example:								
+		gmail, yahoo mail							
+		amazon							
+		An auction is a process of buying and selling goods or services by offering them up for bid, taking bids, and then selling the item to the highest bidder.							
+			online auction is an auction which is held over the internet						
+		wiki is a website on which users collaboratively modify content and structure directly from the web browser.							
+		Instant messaging (IM) is a type of online chat that offers real-time text transmission over the Internet.							
+									
+	Web sites most likely to be referred to as "web applications" are those which have similar functionality to a desktop software application, or to a mobile app.								
+		HTML5 introduced explicit language support for making applications that are loaded as web pages, but can store data locally and continue to function while offline.							
+	Single-page applications are more application-like because they reject the more typical web paradigm of moving between distinct pages with different URLs.								
+		Single-page frameworks like Sencha Touch and AngularJS might be used to speed development of such a web app for a mobile platform.							
 
 
 
