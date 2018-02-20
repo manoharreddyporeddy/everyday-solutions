@@ -779,6 +779,24 @@ https://en.wikipedia.org/wiki/Two-phase_commit_protocol
 
 
 
+desktop application vs client									
+	Programs that run on a user's local computer without ever sending or receiving data over a network are not considered clients, and so the operations of such programs would not be considered client-side operations.								
+									
+https://en.wikipedia.org/wiki/Server-side_scripting									
+	asp								
+	jsp								
+	php								
+	nodejs								
+	python								
+									
+https://en.wikipedia.org/wiki/Node.js									
+Node.js									
+	is an open-source, cross-platform JavaScript run-time environment for executing JavaScript code server-side								
+	 Node.js has an event-driven architecture capable of asynchronous I/O.								
+	 These design choices aim to optimize throughput and scalability in Web applications with many input/output operations,								
+		as well as for							
+			real-time Web applications						
+				(e.g., real-time communication programs and browser games).[6]					
 
 
 
