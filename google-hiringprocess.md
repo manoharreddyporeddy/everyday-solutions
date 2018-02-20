@@ -707,6 +707,54 @@ Operating-system-level_virtualization
 
 
 
+Live migration									
+	https://en.wikipedia.org/wiki/Live_migration								
+									
+Docker									
+	is a tool that can package an application and its dependencies in a virtual container that can run on any Linux server.								
+	This helps enable flexibility and portability on where the application can run, whether on premises, public cloud, private cloud, bare metal, etc.[14]								
+									
+	Docker is a software technology providing operating-system-level virtualization also known as containers, promoted by the company Docker, Inc.[6]								
+		Docker provides an additional layer of abstraction and automation of operating-system-level virtualization on Windows and Linux.[7]							
+		Docker uses the resource isolation features of the Linux kernel such as cgroups and kernel namespaces, and a union-capable file system such as							
+			OverlayFS and others[8] to allow independent "containers" to run within a single Linux instance, avoiding the overhead of starting and maintaining virtual machines (VMs).[9]						
+									
+		The Linux kernel's support for namespaces mostly[10] isolates an application's view of the operating environment, including process trees, network, user IDs and mounted file systems,							
+		while the kernel's cgroups provide resource limiting, including the CPU, memory, block I/O, and network.							
+									
+https://en.wikipedia.org/wiki/Application_virtualization									
+Application virtualization, "virtualization" refers to the artifact being encapsulated (application),									
+	which is quite different from its meaning in								
+		hardware virtualization, where it refers to the artifact being abstracted (physical hardware).							
+	Full application virtualization requires a virtualization layer.[2]								
+	Application virtualization layers replace part of the runtime environment normally provided by the operating system.								
+	The layer intercepts all disk operations of virtualized applications and transparently redirects them to a virtualized location, often a single file.[3]								
+	The application remains unaware that it accesses a virtual resource instead of a physical one.								
+		Since the application is now working with one file instead of many files spread throughout the system,							
+			it becomes easy to run the application on a different computer and previously incompatible applications can be run side-by-side. 						
+	Example: Wine allows some Microsoft Windows applications to run on Linux.								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
