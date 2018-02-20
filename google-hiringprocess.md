@@ -802,6 +802,15 @@ Node.js
 
 
 
+unix commands									
+	https://www.google.co.in/search?q=unix+commands&oq=unix+commands&aqs=chrome..69i57j0l5.9894j0j7&sourceid=chrome&ie=UTF-8								
+									
+									
+	http://searchnetworking.techtarget.com/definition/time-to-live								
+									
+									
+regex									
+	https://www.w3schools.com/jsref/jsref_obj_regexp.asp								
 
 
 
