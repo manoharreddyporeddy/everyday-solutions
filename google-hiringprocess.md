@@ -624,4 +624,49 @@ Event-driven architecture
 
 
 
+
+
+
+
+
+https://en.wikipedia.org/wiki/Scalability									
+	Scalability is the capability of a system, network, or process to handle a growing amount of work, or its potential to be enlarged to accommodate that growth.[1]								
+	A system whose performance improves after adding hardware, proportionally to the capacity added, is said to be a scalable system.								
+		For example, a system is considered scalable if it is capable of increasing its total output under an increased load when resources (typically hardware) are added.							
+	An algorithm, design, networking protocol, program, or other system is said to scale if it is suitably efficient and practical when applied to large situations								
+		(e.g. a large input data set, a large number of outputs or users, or a large number of participating nodes in the case of a distributed system).							
+		If the design or system fails when a quantity increases, it does not scale.							
+									
+	In practice,								
+		if there are a large number of things (n) that affect scaling, then							
+		resource requirements (for example, algorithmic time-complexity) must grow less than n-squared as n increases.							
+			An example is a search engine, which scales not only for the number of users, but also for the number of objects it indexes.						
+			Scalability refers to the ability of a site to increase in size as demand warrants.[3]						
+									
+	Scalability can be measured in various dimensions, such as:								
+	Administrative scalability: The ability for an increasing number of organizations or users to easily share a single distributed system.								
+	Functional scalability: The ability to enhance the system by adding new functionality at minimal effort.								
+	Geographic scalability: The ability to maintain performance, usefulness, or usability regardless of expansion from concentration in a local area to a more distributed geographic pattern.								
+	Load scalability: The ability for a distributed system to easily expand and contract its resource pool to accommodate heavier or lighter loads or number of inputs. Alternatively, the ease with which a system or component can be modified, added, or removed, to accommodate changing load.								
+	Generation scalability: The ability of a system to scale up by using new generations of components. Thereby, heterogeneous scalability is the ability to use the components from different vendors.[4]								
+									
+	A routing protocol is considered scalable with respect to network size, if the size of the necessary routing table on each node grows as O(log N), where N is the number of nodes in the network.								
+	A scalable online transaction processing system or database management system is one that can be upgraded to process more transactions by adding new processors, devices and storage, and which can be upgraded easily and transparently without shutting it down.								
+	Some early peer-to-peer (P2P) implementations of Gnutella had scaling issues. Each node query flooded its requests to all peers. The demand on each peer would increase in proportion to the total number of peers, quickly overrunning the peers' limited capacity. Other P2P systems like BitTorrent scale well because the demand on each peer is independent of the total number of peers. There is no centralized bottleneck, so the system may expand indefinitely without the addition of supporting resources (other than the peers themselves).								
+	The distributed nature of the Domain Name System allows it to work efficiently even when all hosts on the worldwide Internet are served, so it is said to "scale well".								
+									
+	scale horizontally (or scale out/in) means to add more nodes to (or remove nodes from) a system, such as adding a new computer to a distributed software application. 								
+	scale vertically (or scale up/down) means to add resources to (or remove resources from) a single node in a system, typically involving the addition of CPUs or memory to a single computer	.							
+
+
+
+
+
+
+
+
+
+
+
+
 </pre>
