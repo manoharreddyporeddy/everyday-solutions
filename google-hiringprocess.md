@@ -759,6 +759,21 @@ web application or web app is a client–server computer program in which
 
 
 
+https://en.wikipedia.org/wiki/Distributed_transaction									
+	A distributed transaction is a database transaction in which two or more network hosts are involved. Usually, hosts provide transactional resources, while the transaction manager is responsible for creating and managing a global transaction that encompasses all operations against such resources.								
+									
+	A common algorithm for ensuring correct completion of a distributed transaction is the two-phase commit (2PC). This algorithm is usually applied for updates able to commit in a short period of time, ranging from couple of milliseconds to couple of minutes.								
+	There are also long-lived distributed transactions, for example a transaction to book a trip, which consists of booking a flight, a rental car and a hotel. Since booking the flight might take up to a day to get a confirmation, two-phase commit is not applicable here, it will lock the resources for this long. In this case more sophisticated techniques that involve multiple undo levels are used. The way you can undo the hotel booking by calling a desk and cancelling the reservation, a system can be designed to undo certain operations (unless they are irreversibly finished).								
+	In practice, long-lived distributed transactions are implemented in systems based on Web Services. Usually these transactions utilize principles of Compensating transactions, Optimism and Isolation Without Locking. X/Open standard does not cover long-lived DTP.								
+									
+	Several modern technologies, including Enterprise Java Beans (EJBs) and Microsoft Transaction Server (MTS) fully support distributed transaction standards.								
+									
+									
+https://en.wikipedia.org/wiki/Two-phase_commit_protocol									
+	In transaction processing, databases, and computer networking, the two-phase commit protocol (2PC) is a type of atomic commitment protocol (ACP). It is a distributed algorithm that coordinates all the processes that participate in a distributed atomic transaction on whether to commit or abort (roll back) the transaction (it is a specialized type of consensus protocol)								
+	In a "normal execution" of any single distributed transaction ( i.e., when no failure occurs, which is typically the most frequent situation), the protocol consists of two phases:								
+		The commit-request phase (or voting phase), in which a coordinator process attempts to prepare all the transaction's participating processes (named participants, cohorts, or workers) to take the necessary steps for either committing or aborting the transaction and to vote, either "Yes": commit (if the transaction participant's local portion execution has ended properly), or "No": abort (if a problem has been detected with the local portion), and							
+		The commit phase, in which, based on voting of the cohorts, the coordinator decides whether to commit (only if all have voted "Yes") or abort the transaction (otherwise), and notifies the result to all the cohorts. The cohorts then follow with the needed actions (commit or abort) with their local transactional resources (also called recoverable resources; e.g., database data) and their respective portions in the transaction's other output (if applicable).							
 
 
 
