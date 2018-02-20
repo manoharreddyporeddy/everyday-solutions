@@ -449,6 +449,71 @@ detailed
 
 
 
+The Hypertext Transfer Protocol (HTTP) is an										
+	application protocol for									
+		distributed,								
+		collaborative, and								
+		hypermedia information systems.[1]								
+	HTTP is the									
+		foundation of								
+		data communication								
+		for the World Wide Web.								
+										
+HTTP is the										
+	protocol									
+		to exchange or transfer								
+		hypertext.								
+										
+			Hypertext is							
+				structured text that uses						
+					logical links (hyperlinks)					
+					between nodes					
+						containing text.				
+										
+										
+Year	HTTP Version									
+1991	0.9									
+1996	1									
+1997	1.1									
+2015	2									
+										
+An HTTP session is a										
+	sequence of									
+		network request-response								
+			transactions.							
+										
+	An HTTP client									
+		initiates a request by								
+		establishing a Transmission Control Protocol (TCP) connection								
+			to a particular port							
+				on a server						
+					(typically port 80, occasionally port 8080; see List of TCP and UDP port numbers).					
+										
+	An HTTP server									
+		listening on that port								
+			waits for a client's request message.							
+										
+			Upon receiving the request,							
+				the server sends back						
+					a status line, such as "HTTP/1.1 200 OK", and					
+					a message of its own.					
+						The body of this message is typically				
+							the requested resource,			
+							although			
+								an error message or		
+								other information		
+									may also be returned.[1]	
+										
+										
+
+
+
+
+
+
+
+
+
 
 
 nosql
