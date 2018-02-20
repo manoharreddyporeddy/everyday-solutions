@@ -505,6 +505,30 @@ An HTTP session is a
 									may also be returned.[1]	
 										
 										
+HTTP authentication[edit]										
+	HTTP provides									
+		multiple authentication schemes								
+			such as							
+				basic access authentication and						
+				digest access authentication						
+					which operate via a challenge-response mechanism					
+						whereby				
+						the server identifies and				
+						issues a challenge				
+							before serving the requested content.			
+	HTTP provides a									
+		general framework for								
+			access control and							
+			authentication, via							
+				an extensible set of						
+					challenge-response authentication schemes,					
+					which can be used					
+						by a server				
+							to challenge			
+								a client request and		
+						by a client				
+							to provide			
+								authentication information.[12]		
 
 
 
