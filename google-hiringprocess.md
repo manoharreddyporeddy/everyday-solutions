@@ -443,6 +443,152 @@ Carlisle also asks candidates to talk of a time they really screwed up--and that
 
 
 
+---------------------------
+
+detailed
+
+
+
+
+
+nosql
+	https://en.wikipedia.org/wiki/NoSQL
+
+graph db
+	https://upload.wikimedia.org/wikipedia/commons/3/3a/GraphDatabase_PropertyGraph.png
+	https://academy.datastax.com/resources/getting-started-graph-databases
+
+	http://tinkerpop.apache.org/
+	http://tinkerpop.apache.org/docs/current/reference/
+	https://tinkerpop.apache.org/gremlin.html
+
+	Apache TinkerPop™
+
+	Apache TinkerPop™ is a graph computing framework for both graph databases (OLTP) and graph analytic systems (OLAP).
+	Apache TinkerPop™ is an open source, vendor-agnostic, graph computing framework distributed under the commercial friendly Apache2 license. When a data system is TinkerPop-enabled, its users are able to model their domain as a graph and analyze that graph using the Gremlin graph traversal language.
+
+	// What are the names of Gremlin's friends' friends?
+	g.V().has("name","gremlin").
+	  out("knows").out("knows").values("name")
+
+	// What are the names of projects that were created by two friends?
+	g.V().match(
+	  as("a").out("knows").as("b"),
+	  as("a").out("created").as("c"),
+	  as("b").out("created").as("c"),
+	  as("c").in("created").count().is(2)).
+		select("c").by("name")
+
+	// What are the names of the managers in
+	//  the management chain going from Gremlin to the CEO?
+	g.V().has("name","gremlin").
+	  repeat(in("manages")).until(has("title","ceo")).
+	  path().by("name")
+
+	// What is the distribution of job titles amongst Gremlin's collaborators?
+	g.V().has("name","gremlin").as("a").
+	  out("created").in("created").
+		where(neq("a")).
+	  groupCount().by("title")
+
+	// Get a ranking of the most relevant products for Gremlin given his purchase history.
+	g.V().has("name","gremlin").out("bought").aggregate("stash").
+	  in("bought").out("bought").
+		where(not(within("stash"))).
+	  groupCount().
+		order(local).by(values,decr)
+
+
+	Gremlin is the graph traversal language of Apache TinkerPop. Gremlin is a functional, data-flow language that enables users to succinctly express complex traversals on (or queries of) their application's property graph. Every Gremlin traversal is composed of a sequence of (potentially nested) steps. A step performs an atomic operation on the data stream. Every step is either a map-step (transforming the objects in the stream), a filter-step (removing objects from the stream), or a sideEffect-step (computing statistics about the stream). The Gremlin step library extends on these 3-fundamental operations to provide users a rich collection of steps that they can compose in order to ask any conceivable question they may have of their data for Gremlin is Turing Complete.
+
+	What are the names of Gremlin's friends' friends?
+	Get the vertex with name "gremlin."
+	Traverse to the people that Gremlin knows.
+	Traverse to the people those people know.
+	Get those people's names.
+
+	g.V().has("name","gremlin").
+	  out("knows").
+	  out("knows").
+	  values("name")
+
+
+
+
+	g.V().match(
+	  as("a").out("knows").as("b"),
+	  as("a").out("created").as("c"),
+	  as("b").out("created").as("c"),
+	  as("c").in("created").count().is(2)).
+		select("c").by("name")
+	What are the names of the projects created by two friends?
+	...there exists some "a" who knows "b".
+	...there exists some "a" who created "c".
+	...there exists some "b" who created "c".
+	...there exists some "c" created by 2 people.
+	Get the name of all matching "c" projects.
+
+
+	g.V().has("name","gremlin").
+	  repeat(in("manages")).
+		until(has("title","ceo")).
+	  path().by("name")
+
+	Get the managers from Gremlin to the CEO in the hiearchy.
+	Get the vertex with the name "gremlin."
+	Traverse up the management chain...
+	...until a person with the title of CEO is reached.
+	Get name of the managers in the path traversed.
+
+
+
+
+	g.V().has("name","gremlin").as("a").
+	  out("created").in("created").
+		where(neq("a")).
+	  groupCount().by("title")
+
+	Get the distribution of titles amongst Gremlin's collaborators.
+	Get the vertex with the name "gremlin" and label it "a."
+	Get Gremlin's created projects and then who created them...
+	...that are not Gremlin.
+	Group count those collaborators by their titles.
+
+
+
+	g.V().has("name","gremlin").
+	  out("bought").aggregate("stash").
+	  in("bought").out("bought").
+		where(not(within("stash"))).
+	  groupCount().order(local).by(values,decr)
+	Get a ranked list of relevant products for Gremlin to purchase.
+	Get the vertex with the name "gremlin."
+	Get the products Gremlin has purchased and save as "stash."
+	Who else bought those products and what else did they buy...
+	...that Gremlin has not already purchased.
+	Group count the products and order by their relevance.
+
+
+	g.V().hasLabel("person").
+	  pageRank().
+		by("friendRank").
+		by(outE("knows")).
+	  order().by("friendRank",decr).
+	  limit(10)
+	Get the 10 most central people in the knows-graph.
+	Get all people vertices.
+	Calculate their PageRank using knows-edges.
+	Order the people by their friendRank score.
+	Get the top 10 ranked people.
+
+
+
+
+
+graph db
+https://github.com/thinkaurelius/titan/
+
+
 
 
 
