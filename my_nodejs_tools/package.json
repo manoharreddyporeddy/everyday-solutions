@@ -1,0 +1,60 @@
+{
+  "name": "my-nodejs-web-app1",
+  "version": "1.0.0",
+  "description": "MyNodejsWebApp1",
+  "license": "None",
+  "private": true,
+  "repository": "",
+  "keywords": [
+    "server"
+  ],
+  "author": {
+    "name": "manoharreddyporeddy"
+  },
+  "contributors": [],
+  "eslintConfig": {
+    "env": {
+      "es6": true,
+      "node": true,
+      "mocha": true
+    },
+    "extends": "eslint:recommended",
+    "parserOptions": {
+      "sourceType": "module"
+    },
+    "rules": {
+      "brace-style": [
+        1,
+        "1tbs",
+        {
+          "allowSingleLine": true
+        }
+      ],
+      "no-console": 1,
+      "curly": [
+        2,
+        "all"
+      ]
+    }
+  },
+  "nyc": {
+    "include": [
+      "src/*.js"
+    ],
+    "all": true
+  },
+  "devDependencies": {
+    "chai": "^4.1.2"
+  },
+  "main": "src/server.js",
+  "scripts": {
+    "1.0_Install": "npm prune && npm install   &&   cd src && npm prune && npm install",
+    "2.1_Lint": "eslint ./**/*.js --ignore-pattern node_modules/ --ignore-pattern coverage/ --ignore-pattern docs/",
+    "2.2_Test": "mocha --reporter landing *testrunner.js --ccov=1 --elog=1  --timeout 240000   > vlog.txt 2>&1",
+    "2.3_Codecoverage": "nyc --reporter=text --reporter=text-summary --reporter=html     mocha --reporter landing *testrunner.js --ccov=1 --elog=1  --timeout 240000   > elog.txt 2>&1",
+    "3.1_ALL_errlog": "eslint ../**/*.js --ignore-pattern node_modules/ --ignore-pattern coverage/ --ignore-pattern docs/   &&   nyc --reporter=text --reporter=text-summary --reporter=html     mocha --reporter landing *testrunner.js --ccov=1 --elog=1  --timeout 240000   > elog.txt 2>&1",
+    "3.2_ALL_inflog": "eslint ../**/*.js --ignore-pattern node_modules/ --ignore-pattern coverage/ --ignore-pattern docs/   &&   nyc --reporter=text --reporter=text-summary --reporter=html     mocha --reporter landing *testrunner.js --ccov=1 --ilog=1  --timeout 240000   > ilog.txt 2>&1",
+    "3.3_ALL_verlog": "eslint ../**/*.js --ignore-pattern node_modules/ --ignore-pattern coverage/ --ignore-pattern docs/   &&   nyc --reporter=text --reporter=text-summary --reporter=html     mocha --reporter landing *testrunner.js --ccov=1 --vlog=1  --timeout 240000   > vlog.txt 2>&1",
+    "z_integration_test": "mocha --reporter landing *testrunner_api.js --timeout 240000"
+  }
+}

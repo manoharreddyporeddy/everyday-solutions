@@ -1,0 +1,37 @@
+elog:  true
+ilog:  false
+vlog:  false
+ccov:  true
+
+
+
+  TEST RUNNER: validScenario.input:  { isGood: 'true',
+  filename: 'success_test___abc',
+  att1: 'value1',
+  att2: 'value2',
+  att3: 'value3' }
+func1 - hello world - warn
+func1 - hello world - error
+func2 - hello world - warn
+func2 - hello world - error
+
+
+[57D[2A  -------------------------------------------------------
+  ⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅✈⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅
+  -------------------------------------------------------[0mTEST RUNNER: validScenario.input:  { isGood: 'false',
+  filename: 'fail_test___xyz',
+  att1: 'value1',
+  att2: 'value2',
+  att3: 'value3' }
+func1 - hello world - warn
+func1 - hello world - error
+func2 - hello world - warn
+func2 - hello world - error
+
+
+[57D[2A  -------------------------------------------------------
+  ⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅✈
+  -------------------------------------------------------[0m
+
+  2 passing (10ms)
+
