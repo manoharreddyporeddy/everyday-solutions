@@ -2,6 +2,11 @@
 C# (essential), ASP.Net, ReSTful web services, JavaScript, Angular/Typescript, Microsoft Azure, SQL, HTML 5, CSS3
 .Net5, C#, Azure, Micro Services, JavaScript skills are required
 
+ASP.NET
+.NET MVC
+Entity Framework
+WCF, Web services, Web API
+
 .Net Core, ASP .NET MVC, ASP.NET Web API, .NET Framework, C#. SQL Server, AngularJS 4.0, JavaScript, JQuery
 
 Net 4.5, C#: anonymous delegates, LINQ projections, async & parallel programming
