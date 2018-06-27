@@ -1,87 +1,149 @@
 
-C# (essential), ASP.Net, ReSTful web services, JavaScript, Angular/Typescript, Microsoft Azure, SQL, HTML 5, CSS3
-.Net5, C#, Azure, Micro Services, JavaScript skills are required
+VB.NET	
+.NET	
+.NET	
+.NET 4	
+.NET 4	
+.NET 4.0 / 4.5	
+.NET CORE	
+.NET CORE	
+.NET CORE 2.X	
+.NET CORE VS .NET STANDARD	
+.NET CORE/MVC	
+.NET FRAMEWORK 4.6.X	7
+.NET FRAMEWORKS: C#/VISUAL BASIC.NET	
+.NET MVC	
+.NET PLATFORM 7+	
+.NET PLATFORM 7+	
+.NET4.X	
+.NET5	
+ADC	
+ADF	
+ADL	
+ADO.NET	
+ADVANCED C#	
+ADVANCED JS	
+AGILE SOFTWARE DEVELOPMENT METHODOLOGY	
+AND ADW	
+AND MSTESTS IS ESSENTIAL.	
+ANGULAR 4	5
+ANGULAR/TYPESCRIPT	
+ANGULARJS	3
+API MANAGEMENT	
+ASP	
+ASP.NET 4.5	8
+ASP.NET CORE	
+ASP.NET MVC 4/5	5
+ASP.NET WEB API	
+ASYNC & PARALLEL PROGRAMMING	
+ASYNCHRONOUS PROCESSING	
+AWARENESS OF AZURE TECHNOLOGIES SUCH AS NO SQL	
+AZURE	5
+BINARY FILES MANAGEMENT	
+BIT PROCESS COMMUNICATION.	
+BOOTSTRAP	
+C#	20
+C# AND .NET	
+C# AND .NET 4.0/4.5 DEVELOPMENT EXPERIENCE USING VISUAL STUDIO ENVIRONMENT	
+C#. SQL SERVER	
+C#: ANONYMOUS DELEGATES	
+C++	
+C++ DEVELOPMENT EXPERIENCE USING VISUAL STUDIO ENVIRONMENTS	
+CONFIGURATION MANAGEMENT TOOLS AND PROCESSES	
+CREATE/READ/WRITE/UPDATE	
+CSS3	4
+DEPENDENCY INJECTION (GOOD IF HAS EXPERIENCE WITH NINJECT)	
+DOCKER + KUBERNETES ON WINDOWS/LINUX	
+E.G. CLEAR CASE OR TFS.	
+ENTERPRISE SCALE APPLICATIONS	
+ENTITY FRAMEWORK 6.0	9
+EXCEL/XML MANIPULATIONS	
+EXPERIENCE IN WPF	
+EXPRESSJS	
+GIT	
+HARDWARE INTERACTION (USB)	
+HTML 5/CSS3	6
+IAAS	
+IIS	
+INTER PROCESS COMMUNICATIONS	
+JAVASCRIPT	14
+JQUERY	4
+JSON	2
+KNOCKOUTJS	
+LINQ PROJECTIONS	
+MESSAGE QUEUES(RABBITMQ AND NSERVICEBUS)	2
+MFC	
+MICRO SERVICES	
+MICROSERVICE ARCHITECTURE	
+MICROSOFT AZURE	
+MOCKING	
+MS ASP.NET	
+MS AZURE	2
+MS SQL SERVER 2012 OR LATER	6
+MULTITHREADING	2
+MVC 4 OR 5	8
+NET 4.5	
+NEW FEATURES OF C# 7	
+NODEJS	
+ODATA	
+OOA	3
+OOD	3
+OOPS CONCEPT	
+OPPS	
+ORM OOA AND OOD CONCEPTS	
+PAAS	
+RAZOR	
+REST API	4
+RESTFUL WEB SERVICES	
+SERIAL PORT COMMUNICATION AND	
+SOA	
+SOA	
+SOAP	
+SOCKET PROGRAMMING	
+SQL	
+SQL	
+SQL SERVER	3
+SQL/T-SQL	
+T-SQL	
+TFS 2015	
+TFS/VSTS	
+THREADING CONCEPTS	
+TRANSACTIONAL DEVELOPMENT	
+UML	
+UNDERSTANDING OF MICROSOFT AZURE AND PAAS COMPUTING.	
+UNIT TESTING	
+UNIT TESTING LIKE NUNIT	
+USABILITY & USER EXPERIENCE	
+VB 6.0	
+VISUAL C#	
+VISUAL STUDIO	
+VISUAL STUDIO 2015/2017	
+VISUAL STUDIO UNIT TESTING.	
+WCF	13
+WCF/WPF	
+WEB API	11
+WEB SERVICES	
+WEB SERVICES	
+WEB SERVICES	
+WEB SERVICES	
+WEB/WINDOW APPLICATION	
+WEBAPI	
+WEBAPI	
+WEBSERVICES	
+WIN FORMS GUI BASED PROGRAMMING DESIGN	
+WINDOWS BASED GUI APPLICATION DEVELOPMENT	
+WINDOWS SERVICES	
+WINDOWS SERVICES	
+WPF	
+WPF EXPERIENCE WITH KNOWLEDGE ON MVVM AND FRAMEWORKS.	
+WWF	
+XAML	
+XML	
+XML	
+XUNIT	
 
-ASP.NET
-.NET MVC
-Entity Framework
-WCF, Web services, Web API
-
-.Net Core, ASP .NET MVC, ASP.NET Web API, .NET Framework, C#. SQL Server, AngularJS 4.0, JavaScript, JQuery
-
-Net 4.5, C#: anonymous delegates, LINQ projections, async & parallel programming
-Dependency Injection (good if has experience with Ninject), Mocking, Unit testing
-WCF, Web Api, OData, REST
-
-C# and .NET 
-ASP.NET, WCF, Rest API, SQL Server, TFS/VSTS, IIS, HTML, CSS, AngularJS 
-C#, Web/Window Application, Entity Framework
-
-Visual Studio 2015/2017, TFS 2015, Visual C#, SQL Server
-Understanding of Microsoft Azure and PAAS computing. 
-
-C#, Razor
-.Net Framework 4.6.x, C#, ASP.Net, MVC, SOA, MS Azure, MS SQL Server 2012 or later, WCF, WEB API, JavaScript, Angular JS, Entity Framework 6.0
-ASP.Net MVC,Entity Framework,WCF,C#,MS SQL Server,Javascript,.NET Framework,Azure,OOD,OOA
-
-enterprise scale applications
-UML, .NET4.x (C#, ASP.NET), MVC, WWF, WCF, Web APIs, and MSTests is essential.
-
-.NET frameworks: C#/Visual Basic.NET, ASP.NET MVC, ASP, JavaScript, Transactional development, asynchronous processing, Web Services
-
-Windows based GUI application development
-
-ASP.Net MVC,Entity Framework,WCF,C#,MS SQL Server,Javascript,.NET Framework,Azure,OOD,OOA	ASP.Net MVC,Entity Framework,WCF,C#,MS SQL Server,Javascript,.NET Framework,Azure,OOD,OOA
-.Net Framework 4.6.x, C#, ASP.Net, MVC, SOA, MS Azure, MS SQL Server 2012 or later, WCF, WEB API, JavaScript, Angular JS, Entity Framework 6.0
-
-.Net 4.0 and above, C#, MVC 4 or 5, WCF
-C#, .NET 4, MVC 4/5, WCF
-WPF,XAML,SQL
-.Net 4.0 / 4.5 with 
-Win forms GUI based programming design
-C# and .NET 4.0/4.5 development experience using Visual Studio environment 
-C++ development experience using Visual Studio environments 
-Experience in WPF, WCF, MFC 
-
-.Net Platform 7+ (WebAPI, Message Queues(RabbitMQ and NServiceBus), Windows Services)
-C#, Multithreading
-
-Azure (Iaas, Paas), Asp.Net MVC 4/5, C#, WCF, Web Api
-
-Microservice Architecture, .NET Core 2.x, MS SQL Server, Visual Studio, REST, C#, GIT, Docker + Kubernetes on Windows/Linux, API Management, etc.
-
-Usability & User Experience
-.Net, C#, Web API, SQL Server.
-Awareness of Azure technologies such as No SQL, ADL, ADC, ADF, and ADW
-
-Advanced C#, ADO.Net, Web API, Java Scripts, Entity Framework, JQuery, HTML 5/CSS3, JSon, Angular 4.
+ASP.NET MVC	
+MICROSOFT WEB APPLICATION/MOBILE APPLICATION	
 
 
-WPF Experience with Knowledge on MVVM and frameworks.
 
-.Net, C#, Webservices, OOPs Concept, WCF/WPF, Web API, MVC Microsoft Web Application/Mobile Application – (Ruby or Rails) 3 Tire Architecture Web Services. 
-.Net Platform 7+ (WebAPI, Message Queues(RabbitMQ and NServiceBus), Windows Services) 
-C#, Multithreading 
-
-web services ( VB.net, VB 6.0, C++, JavaScript, HTML, XML,ASP.NET 4.5,.NET Core, ORM,OOA and OOD Concepts)
-Excel/XML Manipulations
-Entity Framework
-
-ASP.Net, Web API, angular 2, xUnit, MVC, ANGULAR JS, MVC4, ASP.NET CORE
-.NET Core/MVC
-Web API (MS ASP.Net), C#, .Net Framework, Angular 4, Web Services, HTML5, CSS, JavaScript, JSON, SOAP, REST, JQuery 
-
-New Features of C# 7
-.NET Core vs .NET Standard
-
-C#, OPPs, T-SQL, JavaScript â€“ ( we are Looking for candidate who are very strong in SQL/T-SQL along with Javascript
-
-Unit Testing like NUnit, Visual Studio Unit Testing. 
-Threading Concepts, Inter Process Communications, Socket Programming
-
-xml, 
-Binary files management (Create/Read/Write/Update), 
-Hardware Interaction (USB) , 
-Serial Port Communication and 
-Bit Process communication.
-Agile Software development Methodology, Configuration Management Tools and Processes, e.g. clear case or TFS.
