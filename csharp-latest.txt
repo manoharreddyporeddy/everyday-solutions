@@ -1,0 +1,82 @@
+
+C# (essential), ASP.Net, ReSTful web services, JavaScript, Angular/Typescript, Microsoft Azure, SQL, HTML 5, CSS3
+.Net5, C#, Azure, Micro Services, JavaScript skills are required
+
+.Net Core, ASP .NET MVC, ASP.NET Web API, .NET Framework, C#. SQL Server, AngularJS 4.0, JavaScript, JQuery
+
+Net 4.5, C#: anonymous delegates, LINQ projections, async & parallel programming
+Dependency Injection (good if has experience with Ninject), Mocking, Unit testing
+WCF, Web Api, OData, REST
+
+C# and .NET 
+ASP.NET, WCF, Rest API, SQL Server, TFS/VSTS, IIS, HTML, CSS, AngularJS 
+C#, Web/Window Application, Entity Framework
+
+Visual Studio 2015/2017, TFS 2015, Visual C#, SQL Server
+Understanding of Microsoft Azure and PAAS computing. 
+
+C#, Razor
+.Net Framework 4.6.x, C#, ASP.Net, MVC, SOA, MS Azure, MS SQL Server 2012 or later, WCF, WEB API, JavaScript, Angular JS, Entity Framework 6.0
+ASP.Net MVC,Entity Framework,WCF,C#,MS SQL Server,Javascript,.NET Framework,Azure,OOD,OOA
+
+enterprise scale applications
+UML, .NET4.x (C#, ASP.NET), MVC, WWF, WCF, Web APIs, and MSTests is essential.
+
+.NET frameworks: C#/Visual Basic.NET, ASP.NET MVC, ASP, JavaScript, Transactional development, asynchronous processing, Web Services
+
+Windows based GUI application development
+
+ASP.Net MVC,Entity Framework,WCF,C#,MS SQL Server,Javascript,.NET Framework,Azure,OOD,OOA	ASP.Net MVC,Entity Framework,WCF,C#,MS SQL Server,Javascript,.NET Framework,Azure,OOD,OOA
+.Net Framework 4.6.x, C#, ASP.Net, MVC, SOA, MS Azure, MS SQL Server 2012 or later, WCF, WEB API, JavaScript, Angular JS, Entity Framework 6.0
+
+.Net 4.0 and above, C#, MVC 4 or 5, WCF
+C#, .NET 4, MVC 4/5, WCF
+WPF,XAML,SQL
+.Net 4.0 / 4.5 with 
+Win forms GUI based programming design
+C# and .NET 4.0/4.5 development experience using Visual Studio environment 
+C++ development experience using Visual Studio environments 
+Experience in WPF, WCF, MFC 
+
+.Net Platform 7+ (WebAPI, Message Queues(RabbitMQ and NServiceBus), Windows Services)
+C#, Multithreading
+
+Azure (Iaas, Paas), Asp.Net MVC 4/5, C#, WCF, Web Api
+
+Microservice Architecture, .NET Core 2.x, MS SQL Server, Visual Studio, REST, C#, GIT, Docker + Kubernetes on Windows/Linux, API Management, etc.
+
+Usability & User Experience
+.Net, C#, Web API, SQL Server.
+Awareness of Azure technologies such as No SQL, ADL, ADC, ADF, and ADW
+
+Advanced C#, ADO.Net, Web API, Java Scripts, Entity Framework, JQuery, HTML 5/CSS3, JSon, Angular 4.
+
+
+WPF Experience with Knowledge on MVVM and frameworks.
+
+.Net, C#, Webservices, OOPs Concept, WCF/WPF, Web API, MVC Microsoft Web Application/Mobile Application – (Ruby or Rails) 3 Tire Architecture Web Services. 
+.Net Platform 7+ (WebAPI, Message Queues(RabbitMQ and NServiceBus), Windows Services) 
+C#, Multithreading 
+
+web services ( VB.net, VB 6.0, C++, JavaScript, HTML, XML,ASP.NET 4.5,.NET Core, ORM,OOA and OOD Concepts)
+Excel/XML Manipulations
+Entity Framework
+
+ASP.Net, Web API, angular 2, xUnit, MVC, ANGULAR JS, MVC4, ASP.NET CORE
+.NET Core/MVC
+Web API (MS ASP.Net), C#, .Net Framework, Angular 4, Web Services, HTML5, CSS, JavaScript, JSON, SOAP, REST, JQuery 
+
+New Features of C# 7
+.NET Core vs .NET Standard
+
+C#, OPPs, T-SQL, JavaScript â€“ ( we are Looking for candidate who are very strong in SQL/T-SQL along with Javascript
+
+Unit Testing like NUnit, Visual Studio Unit Testing. 
+Threading Concepts, Inter Process Communications, Socket Programming
+
+xml, 
+Binary files management (Create/Read/Write/Update), 
+Hardware Interaction (USB) , 
+Serial Port Communication and 
+Bit Process communication.
+Agile Software development Methodology, Configuration Management Tools and Processes, e.g. clear case or TFS.
