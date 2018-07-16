@@ -21,7 +21,7 @@ https://www.npmjs.com/package/dnt-connect
 https://www.npmjs.com/package/persona-id  
 https://www.npmjs.com/package/saml-lib  
 https://www.npmjs.com/package/math-float32-signbit  
-https://www.npmjs.com/package/passport-sso  
+**https://www.npmjs.com/package/passport-sso**  
 https://www.npmjs.com/package/discoursso  
 https://www.npmjs.com/package/apostrophe-saml  
 https://www.npmjs.com/package/@gctools-components/gc-login  
