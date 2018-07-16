@@ -4,8 +4,11 @@
 #Sources:    
 https://www.npmjs.com/search?q=keywords:sso  
 https://www.npmjs.com/search?q=single%20sign%20on  
-  
-##List of sso npm packages:    
+
+##List of sso npm packages:  
+  Listed as per popularity (more downloads)  
+  bold are some other notable ones  
+
 https://www.npmjs.com/package/passport-azure-ad  
 https://www.npmjs.com/package/passport-saml  
 https://www.npmjs.com/package/keycloak-js  
