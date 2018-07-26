@@ -1,3 +1,4 @@
+<pre>
 
 Google Mail Checker 4.4.0	Displays the number of unread messages in your Google Mail inbox. You can also click the button to open your inbox.
 Google Hangouts 2018.123.418.2	Hangouts brings conversations to life with photos, emoji, and even group video calls for free.
@@ -46,3 +47,5 @@ Don't Break the Chain 1.2	Displays the 4 week calendar from dontbreakthechain.co
 
 OneAccess 3.6	My top ten OneAccess tiles.
 OneAccess Authenticator 2.3.0	OneAccess Authenticator: Two-Factor Authentication from your PC
+
+</pre>
