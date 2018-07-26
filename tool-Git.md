@@ -1,9 +1,8 @@
 
 repo
- user name
- email 
- set and get
-
+ user name & email 
+ set
+ get
 
 # set username & email to a GIT repository
 
@@ -15,4 +14,3 @@ repo
             < above prints  manoharreddyporeddy >
 	git config --global user.email
             < above prints manoharporeddy@outlook.com>
-	
