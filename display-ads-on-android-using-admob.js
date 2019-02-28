@@ -1,4 +1,20 @@
 
+/*
+NOTE:
+
+Ad unit >
+Ad unit settings >
+Implementation instructions >
+
+You will see 2 IDs starting with "ca-app-pub-.xxxxxxxxxxxx"
+
+one is ADMOB_APP_ID -> use this while installing plugin
+
+another is YOUR_AD_ID -> this is correct for ads (above will give NETWORK ERROR for ads), now have "internal error", gave my address details also, will wait and try again after some time.
+
+*/
+
+
   document.addEventListener('deviceready', this.onDeviceReady.bind(this), false);
 
 
