@@ -1,6 +1,8 @@
 
 /*
+-------------------------------
 NOTE:
+-------------------------------
 
 Ad unit >
 Ad unit settings >
@@ -12,6 +14,26 @@ one is ADMOB_APP_ID -> use this while installing plugin
 
 another is YOUR_AD_ID -> this is correct for ads (above will give NETWORK ERROR for ads), now have "internal error", gave my address details also, will wait and try again after some time.
 
+
+-------------------------------
+package.json dependencies:
+I have used cordova, react, admob - so some may be unnecessary for you
+-------------------------------
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^3.1.2",
+    "cordova-admob-sdk": "0.22.0",
+    "cordova-android": "^7.1.4",
+    "cordova-browser": "^5.0.4",
+    "cordova-ios": "^4.5.5",
+    "cordova-osx": "^4.0.2",
+    "cordova-plugin-admob-free": "0.25.0",
+    "cordova-plugin-splashscreen": "^5.0.2",
+    "cordova-plugin-whitelist": "^1.3.3",
+    "cordova-promise-polyfill": "0.0.2",
+    "cordova-windows": "^6.0.1"
+  },
+  
 */
 
 
